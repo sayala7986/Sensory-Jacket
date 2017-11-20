@@ -1,2 +1,2 @@
 # Sensory-Jacket1
-Para la relajacionb muscular de las personas
+Proyecto Integrador para la relajacion muscular de las personas (APLICACION).
